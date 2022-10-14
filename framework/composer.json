@@ -1,0 +1,14 @@
+{
+  "name": "sumatran/framework",
+  "description": "Sumatran PHP Framework",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Saullo Bretas Silva",
+      "email": "saullo.bretas55@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  }
+}
